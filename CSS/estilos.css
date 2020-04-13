@@ -1,8 +1,18 @@
 body
 {
-    color: blanchedalmond;
     text-align: center;
     font-family: "Arial";
+}
+
+h1
+{
+    color: blanchedalmond;
+}
+
+p
+{
+    color: rgb(134, 27, 27);
+    font-size: xx-large;
 }
 
 body, html
