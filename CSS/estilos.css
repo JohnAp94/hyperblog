@@ -13,6 +13,12 @@ body
     margin: 0 auto;
 }
 
+#cabecera
+{
+    color: blanchedalmond;
+    font-size: 20px;
+}
+
 #container h1
 {
     color: blanchedalmond;
