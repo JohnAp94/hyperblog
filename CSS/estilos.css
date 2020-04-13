@@ -4,3 +4,11 @@ body
     text-align: center;
     font-family: "Arial";
 }
+
+body, html
+{
+    background-image: url("star-wars.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
