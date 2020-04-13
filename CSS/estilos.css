@@ -4,14 +4,23 @@ body
     font-family: "Arial";
 }
 
-h1
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
 {
     color: blanchedalmond;
 }
 
 p
 {
-    color: rgb(134, 27, 27);
+    color: #f2f2f2;
     font-size: x-large;
 }
 
