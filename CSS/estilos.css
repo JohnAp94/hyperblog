@@ -33,6 +33,12 @@ body
 
 }
 
+#cabecera #logo
+{
+    width: 40px;
+    vertical-align: middle;
+}
+
 #container h1
 {
     color: blanchedalmond;
