@@ -16,7 +16,7 @@ body
 
 #cabecera
 {
-    background: rgb(30, 30, 54);
+    background: rgba(57, 57, 99, 0.349);
     box-shadow: 0px, 5px, 30px, 0px rgba(255, 255, 255, 0.952);
     color: blanchedalmond;
     font-weight: bold;
@@ -54,4 +54,12 @@ body, html
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#footer
+{
+    background: rgba(119, 119, 119, 0.425);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
