@@ -9,3 +9,4 @@ Un blog increible hecho en el curso de [Git y GitHub](http://platzi.com/cursos/g
 * Las personalidades múltiples de Freddy
 * Creado por el increible platzi team
 * Incluye ejemplos
+* Disponible para todas las edades
